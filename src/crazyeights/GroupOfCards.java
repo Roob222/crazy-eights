@@ -23,7 +23,7 @@ public class GroupOfCards
     
     public GroupOfCards(int givenSize)
     {
-        size = givenSize;
+        this.size = givenSize;
     }
     
     /**
